@@ -102,9 +102,9 @@ The layout was structured like a visual story:
 
 ## Screenshots
 
-> Upload your images to the repository and paste the screenshot links below.
-
-<!-- I will add the exact image linking lines here after upload -->
+![Homepage](Offdutydrone%201.png)
+![Homepage](Offdutydrone%202.png)
+![Homepage](Offdutydrone%203.png)
 
 ---
 
